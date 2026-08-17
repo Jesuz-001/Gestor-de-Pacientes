@@ -34,3 +34,18 @@ Eliminación con confirmación: Localización del registro objetivo y eliminaci�
 Datos de salida 
 
 Listado de pacientes: Presentación formateada en consola con los campos del paciente, incluyendo la fecha y hora de ingreso generada por el sistema.  Resultados de búsqueda: Confirmación del número de coincidencias halladas y su despliegue en pantalla.  Mensajes de confirmación: Notificaciones de éxito tras registrar, actualizar o eliminar un paciente.  Mensajes de error y advertencia: Alertas visuales ante datos vacíos, IDs duplicados, edades no válidas o registros no encontrados. 
+
+
+Capturas
+
+![Imagen](images/new.jpeg)
+
+![Imagen](images/upd.jpeg)
+
+![Imagen](images/sis.jpeg)
+
+![Imagen](images/lis.jpeg)
+
+![Imagen](images/id.jpeg)
+
+![Imagen](images/del.jpeg)
